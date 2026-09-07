@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="style.css">
-# sticker-board
-写真をステッカー化して、シール帳みたいに思い出をかわいく記録できます
+<h1></h1>sticker-board
+<p></p>写真をステッカー化して、シール帳みたいに思い出をかわいく記録できます
 <link rel="icon" href="favicon.jpg" type="image/jpeg">
 <img src="IMG_1265.jpg" alt="photo" width="300">
 <h1>実行可能なタスク
