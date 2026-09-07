@@ -7,3 +7,9 @@
 <p>・好きな写真を高画質でシール化
 <p>・シールを好きな場所に移動
 <p>・完全オフライン対応
+
+<head>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+
