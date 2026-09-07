@@ -8,3 +8,4 @@ index.html
 <p>・好きな写真を高画質でシール化
 <p>・シールを好きな場所に移動
 <p>・完全オフライン対応
+<link rel="stylesheet" href="style.css">
