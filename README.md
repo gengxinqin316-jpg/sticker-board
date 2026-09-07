@@ -1,4 +1,3 @@
-<link rel="stylesheet" href="style.css">
 <h1></h1>sticker-board
 <p></p>写真をステッカー化して、シール帳みたいに思い出をかわいく記録できます
 <link rel="icon" href="favicon.jpg" type="image/jpeg">
@@ -9,7 +8,6 @@
 <p>・完全オフライン対応
 
 <head>
-  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="style.css.css">
 </head>
-
-
+<link rel="stylesheet" href="style.css">
