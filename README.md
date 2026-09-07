@@ -8,6 +8,4 @@
 <p>・完全オフライン対応
 
 <head>
-  <link rel="stylesheet" href="style.css.css">
-</head>
 <link rel="stylesheet" href="style.css">
