@@ -9,3 +9,18 @@
 
 <head>
 <link rel="stylesheet" href="style.css">
+
+<h1 id="title">Sticker Board</h1>
+
+<div id="board">
+  ここにボードを作る
+</div>
+
+<script src="script.js"></script>
+
+
+
+
+
+
+
